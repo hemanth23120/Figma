@@ -77,7 +77,8 @@ saveethaengg@gmail.com</div>
 
 
 ## OUTPUT:
-![Uploading Screenshot 2025-12-24 140130.png…]()
+<img width="1026" height="515" alt="r" src="https://github.com/user-attachments/assets/4c9123d0-e1ae-4be9-b485-73bd5d2f18e9" />
+
 
 
 
