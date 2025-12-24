@@ -1,4 +1,3 @@
-<img width="1033" height="548" alt="image" src="https://github.com/user-attachments/assets/c872e0c3-be4e-4e6b-b617-7732572e204e" /># Ex09 Event Registration Web Application
 ## Date:24-12-2025
 ## Reference No:25018939
 
